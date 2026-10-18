@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Arpit 
 
-<!--
-**Arpit29-m/Arpit29-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer and Electronics & Communication Engineering undergraduate at NIT Jamshedpur. I build backend systems in Java and Spring Boot, with a focus on concurrency, data consistency, and scalable architectures.
 
-Here are some ideas to get you started:
+## Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring Security, Hibernate, REST APIs, JWT
+- **Data & messaging:** PostgreSQL, Apache Kafka, Redis
+- **DevOps & monitoring:** Docker, Kubernetes (HPA), Prometheus, Grafana
+- **Testing:** JUnit, Mockito
+
+## Featured projects
+
+- [**multi-tenant-billing-engine**](https://github.com/Arpit29-m/multi-tenant-billing-engine): Multi-tenant SaaS billing backend with tenant data isolation, BigDecimal-based financial calculations, idempotent request handling, and optimistic locking.
+- [**Flash-sale**](https://github.com/Arpit29-m/Flash-sale): High-concurrency inventory system using Kafka, Redis distributed locks to prevent overselling, Kubernetes autoscaling, and Prometheus/Grafana monitoring.
+- [**digital-wallet-payment**](https://github.com/Arpit29-m/digital-wallet-payment): Digital wallet and P2P payment REST API with JWT authentication, Flyway migrations, and Swagger documentation.
+
+## Currently
+
+- Getting started with open source
+- Practising DSA: 400+ LeetCode problems solved, peak contest rating 1645
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/arpit-mishra-474786406/)
